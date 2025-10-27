@@ -1,0 +1,28 @@
+body {
+    background-color: #5296a5;
+    text-align: center;
+}
+h1 {
+    font-family: Arial, sans-serif;
+    color: #f7ece1;
+}
+h2 {
+    font-family: Arial, sans-serif;
+    color: #f7ece1;
+}
+a {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    color: #003d5b;
+}
+ul{
+    padding: 0;
+}
+li {
+    margin-bottom: 7px;
+    font-weight: bold;
+}
+nav a {
+    display: block;
+    margin-bottom: 5px;
+}
