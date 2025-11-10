@@ -1,0 +1,8 @@
+a {
+    font-size: 50px;
+    background-image: url("../Images/favi.jpg");
+    background-size: 50px;
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 60px;
+}
