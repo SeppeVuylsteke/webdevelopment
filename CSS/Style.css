@@ -12,12 +12,12 @@ h1 {
 h1, h2 {
     color: #f7ece1;
 }
-section a {
+a {
     text-decoration: none;
     color: #003d5b;
 }
-section ul {
-    padding: 0 0;
+ul {
+    padding: 0;
 }
 li {
     margin-bottom: 7px;
@@ -26,6 +26,6 @@ li {
 li:hover {
     transform: scale(1.05);
 }
-section a:hover {
+a:hover {
     color: #012333;
 }
