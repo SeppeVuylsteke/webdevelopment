@@ -3,6 +3,7 @@ body {
     text-align: center;
     font-family: Arial, sans-serif;
     margin: 0;
+    font-size: 1.2em;
 }
 h1 {
     background-color: #012333;
@@ -28,4 +29,9 @@ li:hover {
 }
 a:hover {
     color: #012333;
+}
+footer {
+    vertical-align: bottom;
+    background-color: darkslategrey;
+    color: white;
 }
