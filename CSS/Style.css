@@ -30,15 +30,3 @@ li:hover {
 a:hover {
     color: #012333;
 }
-footer {
-    position: fixed;
-    height: 50px;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    text-align: center;
-    background: #012333;
-    color: white;
-    font-size: 0.9em;
-    line-height: 50px;
-}
