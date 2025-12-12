@@ -8,11 +8,10 @@ body {
 
 .midden {
     background-color: #fcfcfc;
-    width: 50%;
+    width: 75%;
     margin: 0 auto;
-    min-height: 90vh;
+    min-height: 85vh;
     box-shadow: -10px 0 15px -5px rgba(0, 0, 0, 0.3), 10px 0 15px -5px rgba(0, 0, 0, 0.3);
-
 }
 
 h1 {
@@ -63,10 +62,16 @@ li a:hover {
 
 .verslag {
     margin: 20px 20px;
-    padding: 20px 40%;
+    padding: 20px;
     font-weight: bold;
     background-color: white;
     border-radius: 15px;
     border: solid 1px #e6e6e6;
+    text-align: center;
+}
 
+@media (min-width: 580px) {
+    .midden {
+        width: 50%;
+    }
 }
