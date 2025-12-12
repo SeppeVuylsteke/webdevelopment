@@ -21,7 +21,7 @@ body {
 
 .midden {
     background-color: #fcfcfc;
-    width: 50%;
+    width: 75%;
     margin: 0 auto;
     min-height: 85vh;
     box-shadow: -10px 0 15px -5px rgba(0, 0, 0, 0.3), 10px 0 15px -5px rgba(0, 0, 0, 0.3);
@@ -93,10 +93,18 @@ footer {
     position: fixed;
     height: 50px;
     bottom: 0;
-    left: 0;
-    width: 100%;
     text-align: center;
     color: gray;
     font-size: 0.9em;
     line-height: 50px;
+    background-color: #fcfcfc;
+    width: 50%;
+    margin: 0 auto;
+}
+
+@media (min-width: 580px) {
+    .midden {
+        width: 50%;
+    }
+
 }
