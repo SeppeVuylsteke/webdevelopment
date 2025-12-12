@@ -8,12 +8,13 @@ body {
 
 .semester {
     background-color: #388dca;
-    padding: 15px;
+    padding: 0 15px 0 15px;
+
 }
 
 .semester a {
     margin: 0 30px;
-    padding: 10px 15px;
+    padding: 5px 15px;
     font-weight: bold;
     color: white;
     display: inline-block;
@@ -110,5 +111,7 @@ footer {
         width: 50%;
     }
 
-
+    .semester {
+        padding: 10px 15px;
+    }
 }
