@@ -89,6 +89,12 @@ li.blocked {
     cursor: not-allowed;
 }
 
+li.filler {
+    border-color: #fcfcfc;
+    background-color: #fcfcfc;
+    color: #fcfcfc;
+}
+
 footer {
     position: fixed;
     height: 50px;
