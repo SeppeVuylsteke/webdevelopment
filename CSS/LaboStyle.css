@@ -10,7 +10,7 @@ body {
     background-color: #fcfcfc;
     width: 75%;
     margin: 0 auto;
-    min-height: 85vh;
+    min-height: 90vh;
     box-shadow: -10px 0 15px -5px rgba(0, 0, 0, 0.3), 10px 0 15px -5px rgba(0, 0, 0, 0.3);
 }
 

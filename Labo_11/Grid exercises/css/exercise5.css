@@ -46,20 +46,23 @@ div {
 }
 
 .block.block6 {
-    grid-column-start: 4;
-    grid-row-start: 5;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 4;
     background-color: #a44269;
 }
 
 .block.block7 {
-    grid-column-start: 2;
+    grid-column-start: 3;
+    grid-column-end: 3;
     grid-row-start: 4;
-    background-color: #73a2b8;
+    background-color: #7370a2;
 }
 
 .block.block8 {
-    grid-column-start: 4;
-    grid-row-start: 4;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 5;
     background-color: #838ebe;
 }
 

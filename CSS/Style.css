@@ -120,4 +120,8 @@ footer {
     .semester {
         padding: 10px 15px;
     }
+
+    .filler {
+        display: none;
+    }
 }
