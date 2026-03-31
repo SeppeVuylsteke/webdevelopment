@@ -10,9 +10,6 @@ const setup = () => {
     const body = document.querySelector("body");
     const img = document.createElement("img");
 
-    img.setAttribute("src", "images/vives.png");
-    img.setAttribute("alt","Logo Vives");
-    img.setAttribute("style", "width: 100px;")
-    body.appendChild(img);
+
 }
 window.addEventListener("load", setup);
