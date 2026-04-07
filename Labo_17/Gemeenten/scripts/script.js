@@ -17,7 +17,6 @@ const setup = () => {
         option.value = item;
         option.innerText = item;
         select.appendChild(option);
-
     })
 }
 window.addEventListener("load", setup);
